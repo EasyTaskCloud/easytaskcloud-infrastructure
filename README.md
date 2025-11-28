@@ -1,0 +1,1 @@
+# EasyTaskCloud — Terraform scaffold + GitHub Actions CI/CD
